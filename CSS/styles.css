@@ -63,6 +63,11 @@ h3{
 
 }
 
+.my{
+    float: right;
+    height: 200px;
+    width: 200px;
+}
 .skills{
     margin: auto;
 }
@@ -75,6 +80,12 @@ h3{
 .edu{
     margin: auto;
     width: 50%;
+}
+.exp{
+    float: left;
+    padding-right: 20px;
+    
+    padding-bottom: 10px;
 }
 
 .work{
@@ -93,11 +104,18 @@ h3{
     margin: auto;
 }
 
+
 .Projects{
     width: 50% !important;
     margin: auto !important;
+    
 }
 
+.proj{
+    float: right;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
 .port{
     background-color: #C9EEFF;
     padding-top: 1px;
